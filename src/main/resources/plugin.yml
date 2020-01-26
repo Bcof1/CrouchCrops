@@ -1,0 +1,6 @@
+name: CrouchCrop
+version: ${project.version}
+main: me.bcof.crouchcrop.CrouchCrop
+api-version: 1.13
+authors: [Bcof]
+description: When you crouch, the crop will grow
